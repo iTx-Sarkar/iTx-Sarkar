@@ -8,18 +8,15 @@
   <img src="https://img.shields.io/github/stars/iTx-Sarkar?label=Stars&style=social" alt="stars"/>
 </p>
 
----
-
 ## 👨‍🚀 About Me
 - 🌱 Exploring **AI | Cloud | Web3 | Cybersecurity**  
 - 🎯 Mission: *Transform ideas into futuristic solutions*  
 - ⚡ Motto: *"Innovate the Future, One Commit at a Time"*  
 - ☕ Fuel: *Code + Coffee + Midnight Energy*  
 
----
+
 
 ## 🛠️ Tech Arsenal
-```yaml
 Languages:  C, C++, Python, JavaScript, TypeScript
 Web Stack:  HTML, CSS, React, Node.js, Next.js
 Database:   MySQL, MongoDB, Firebase
@@ -27,7 +24,6 @@ Cloud:      AWS, GCP, Vercel, Netlify
 Tools:      Git, GitHub, Docker, VS Code, Linux
 
 
----
 
 📊 GitHub Analytics
 
@@ -36,8 +32,6 @@ Tools:      Git, GitHub, Docker, VS Code, Linux
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iTx-Sarkar&theme=radical" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTx-Sarkar&layout=compact&theme=radical" alt="langs"/>
 </p>
----
-
 🌐 Connect with Me
 
 <p align="center">
@@ -46,16 +40,14 @@ Tools:      Git, GitHub, Docker, VS Code, Linux
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/iTx-Sarkar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
----
 
 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/iTx-Sarkar/iTx-Sarkar/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
----
+
 
 ✨ Futuristic Quote
 
 <p align="center"><i>"The Future belongs to those who Code it."</i></p>
-```
