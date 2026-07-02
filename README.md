@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BASED_IN-BANGLADESH-FF00E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BASED_IN-NAWABSHAH%2C_SINDH_%F0%9F%87%B5%F0%9F%87%B0-FF00E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/AVAILABLE_FOR-COLLABORATION-00FFFF?style=for-the-badge&logo=handshake&logoColor=black"/>
 </p>
 
@@ -36,6 +36,7 @@
 
 ```yaml
 identity: "Bandaheali — Digital Headquarters"
+location: "Nawabshah, Sindh, Pakistan 🇵🇰 — The Heart of Sindh"
 mission: "Bridging complex technological challenges with elegant, user-centric outcomes"
 specialization:
   - High-performance digital infrastructure
@@ -52,7 +53,7 @@ status: "Actively building the architecture of tomorrow"
 
 | 🔷 Project | 📝 Description | 🔗 Access |
 | :---: | :--- | :---: |
-| **SMD-Mini** | Advanced utility toolkit for automation | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://mr-shaban.vercel.app) |
+| **SMD-Mini** | Advanced utility toolkit for automation | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://smd-mini.zone.id) |
 | **FB Downloader** | High-speed Facebook video extraction | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://team-bandaheali.vercel.app/facebook) |
 | **TikTok Downloader** | Seamless TikTok video extraction | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://team-bandaheali.vercel.app/tiktok) |
 
@@ -77,21 +78,26 @@ status: "Actively building the architecture of tomorrow"
 
 ---
 
-## 🐍 // CONTRIBUTION_SNAKE
+## 📍 // COORDINATES_LOCKED
 
 <div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=transparent&color=00FFFF&height=30&section=header&text=EATING%20MY%20OWN%20CONTRIBUTIONS...&fontSize=14&fontColor=00FFFF&animation=twinkling)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=00FFFF,8A2BE2,FF00E5&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%A1+TRANSMITTING+FROM+NAWABSHAH%2C+SINDH;%F0%9F%87%B5%F0%9F%87%B0+PAKISTAN+%2F%2F+THE+HEART+OF+SINDH" alt="Location Typing SVG"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iTx-Sarkar/iTx-Sarkar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iTx-Sarkar/iTx-Sarkar/output/github-contribution-grid-snake.svg" />
-  <img alt="snake game" src="https://raw.githubusercontent.com/iTx-Sarkar/iTx-Sarkar/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">🌍<br/><b>COUNTRY</b><br/>Pakistan</td>
+    <td align="center">🏙️<br/><b>PROVINCE</b><br/>Sindh</td>
+    <td align="center">📍<br/><b>CITY</b><br/>Nawabshah</td>
+    <td align="center">💎<br/><b>TITLE</b><br/>Heart of Sindh</td>
+  </tr>
+</table>
+
+![divider](https://capsule-render.vercel.app/api?type=cylinder&color=0:00FFFF,50:8A2BE2,100:FF00E5&height=100&section=header&text=NAWABSHAH&fontSize=35&fontColor=ffffff&fontAlignY=55&animation=twinkling)
 
 </div>
-
-> ⚙️ **Setup note:** Yeh snake animation apne aap generate hota hai ek GitHub Action se — neeche diya `snake.yml` workflow file apne repo ke `.github/workflows/` folder me daal do, ek baar push karo, aur snake khud-ba-khud tumhare contribution graph ko khaayega. 🐍
 
 ---
 
@@ -121,7 +127,7 @@ status: "Actively building the architecture of tomorrow"
 
 We are always open to discussing collaborative projects, freelance opportunities, and futuristic enterprise solutions.
 
-<a href="mailto:your-email@example.com">
+<a href="bandahealimaree@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL_CONTACT-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </a>
 <a href="https://team-bandaheali.vercel.app">
