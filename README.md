@@ -24,26 +24,24 @@
   <img src="https://img.shields.io/github/stars/iTx-Sarkar?label=TOTAL+STARS&style=for-the-badge&color=00FFFF&logo=github" alt="stars"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BASED_IN-NAWABSHAH%2C_SINDH_%F0%9F%87%B5%F0%9F%87%B0-FF00E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AVAILABLE_FOR-COLLABORATION-00FFFF?style=for-the-badge&logo=handshake&logoColor=black"/>
-</p>
-
 ---
 
 ## 🧬 // ABOUT_THE_SYSTEM
 
 ```yaml
 identity: "Bandaheali — Digital Headquarters"
-location: "Nawabshah, Sindh, Pakistan 🇵🇰 — The Heart of Sindh"
+location: "Nawabshah, Sindh, Pakistan 🇵🇰"
 mission: "Bridging complex technological challenges with elegant, user-centric outcomes"
-specialization:
-  - High-performance digital infrastructure
-  - AI-driven automation tools
-  - Secure & scalable web solutions
 status: "Actively building the architecture of tomorrow"
 ```
+
+---
+
+## 🐍 // CONTRIBUTION_SNAKE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iTx-Sarkar/iTx-Sarkar/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 ---
 
@@ -53,9 +51,9 @@ status: "Actively building the architecture of tomorrow"
 
 | 🔷 Project | 📝 Description | 🔗 Access |
 | :---: | :--- | :---: |
-| **SMD-Mini** | Advanced utility toolkit for automation | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://smd-mini.zone.id) |
-| **FB Downloader** | High-speed Facebook video extraction | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://team-bandaheali.vercel.app/facebook) |
-| **TikTok Downloader** | Seamless TikTok video extraction | [![Launch](https://img.shields.io/badge/LAUNCH-00FFCC?style=for-the-badge&logo=rocket&logoColor=black)](https://team-bandaheali.vercel.app/tiktok) |
+| **SMD-Mini** | Advanced utility toolkit | [Launch](https://smd-mini.zone.id) |
+| **FB Downloader** | High-speed FB extraction | [Launch](https://team-bandaheali.vercel.app/facebook) |
+| **TikTok Downloader** | Seamless TT extraction | [Launch](https://team-bandaheali.vercel.app/tiktok) |
 
 </div>
 
@@ -68,55 +66,12 @@ status: "Actively building the architecture of tomorrow"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iTx-Sarkar&theme=radical&background=0D1117&stroke=8A2BE2&ring=FF00E5&fire=00FFFF&currStreakLabel=FF00E5&border=8A2BE2" alt="GitHub Streak" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTx-Sarkar&layout=compact&theme=radical&bg_color=0D1117&title_color=FF00E5&text_color=c9d1d9&border_color=8A2BE2&hide_border=false" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iTx-Sarkar&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00E5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 📍 // COORDINATES_LOCKED
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=00FFFF,8A2BE2,FF00E5&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%A1+TRANSMITTING+FROM+NAWABSHAH%2C+SINDH;%F0%9F%87%B5%F0%9F%87%B0+PAKISTAN+%2F%2F+THE+HEART+OF+SINDH" alt="Location Typing SVG"/>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center">🌍<br/><b>COUNTRY</b><br/>Pakistan</td>
-    <td align="center">🏙️<br/><b>PROVINCE</b><br/>Sindh</td>
-    <td align="center">📍<br/><b>CITY</b><br/>Nawabshah</td>
-    <td align="center">💎<br/><b>TITLE</b><br/>Heart of Sindh</td>
-  </tr>
-</table>
-
-![divider](https://capsule-render.vercel.app/api?type=cylinder&color=0:00FFFF,50:8A2BE2,100:FF00E5&height=100&section=header&text=NAWABSHAH&fontSize=35&fontColor=ffffff&fontAlignY=55&animation=twinkling)
-
-</div>
-
 ---
 
 ## 🛠️ // TECH_STACK
 
-### 💻 Core Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-### 🚀 Deployment & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,docker,git,linux,mysql,mongodb,vscode,vercel" />
 </p>
 
 ---
@@ -125,9 +80,11 @@ status: "Actively building the architecture of tomorrow"
 
 <div align="center">
 
-We are always open to discussing collaborative projects, freelance opportunities, and futuristic enterprise solutions.
+We are always open to discussing collaborative projects and futuristic enterprise solutions.
 
-<a href="bandahealimaree@gmail.com">
+<br/><br/>
+
+<a href="mailto:bandahealimaree@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL_CONTACT-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </a>
 <a href="https://team-bandaheali.vercel.app">
